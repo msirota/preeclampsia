@@ -1,4 +1,4 @@
-setwd('~/Desktop/github_repos/preeclampsia/blood_analysis')
+#setwd('')
 library(gridExtra)
 library(labelled)   
 library(rstatix)    
